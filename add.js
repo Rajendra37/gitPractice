@@ -3,4 +3,4 @@ const add=(a,b)=>{
 
 }
 
-add(2,4);
+add(4,4);
