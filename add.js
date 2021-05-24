@@ -5,5 +5,5 @@ const add=(a,b)=>{
 const multiply=(x,y)=>{
     return x*y;
 }
-multiply(3,3);
+multiply(4,3);
 add(2,4);
