@@ -1,6 +1,6 @@
-const add=(a,b)=>{
+const multiply=(a,b)=>{
     return a+b;
 
 }
 
-add(4,4);
+multiply(4,4);
