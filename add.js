@@ -12,3 +12,4 @@ add(2,4);
 
 multiply(4,4);
 
+console.log("multiplication...",multiply)
